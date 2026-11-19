@@ -1,0 +1,11 @@
+HS2 Digital Tools Hub - adding videos / GIFs
+Keep index.html and this "assets" folder together. Save each recording with the exact base name below
+(.mp4, .webm, .gif, .png or .jpg are all detected automatically).
+
+DLL     assets/dll/     installation, createpsets, updateoldmdmpsetclass, updatepsetsfromexcel,
+                        transferpsets, createpsetsfromifcjson, dumppsetstoexcel, processareaandperimeter
+HTML    assets/html/    mpdt-imdat-validator, imdat-updater, ifc-imdat-validator
+Dynamo  assets/dynamo/  dyn-define-pset, dyn-check-layer, dyn-correct-layer, dyn-transfer-imdat
+
+SharePoint links: in index.html, CONFIGURATION block -> set TOOLKIT_LINK (HTML toolkit),
+DYNAMO_FOLDER (Dynamo scripts), or any individual tool's "sharepoint" value.

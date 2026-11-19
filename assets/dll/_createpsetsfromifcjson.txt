@@ -1,0 +1,1 @@
+Put createpsetsfromifcjson.mp4 (or .gif) in this folder
